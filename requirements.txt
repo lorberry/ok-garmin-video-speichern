@@ -1,0 +1,3 @@
+sounddevice==0.4.6
+vosk==0.3.45
+pynput==1.7.6
