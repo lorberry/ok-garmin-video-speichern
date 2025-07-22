@@ -7,3 +7,6 @@ this program presses the F10 key as soon as you say â€œokay garmin, save videoâ€
 3. start the python program and start the replay buffer, enjoy
 
 <img width="345" height="350" alt="image" src="https://github.com/user-attachments/assets/31fff3a1-ae8f-4a92-bdf2-262627ae4e2c" />
+
+# big thanks
+to jirmjahu for coming up with this very sigma idea!
