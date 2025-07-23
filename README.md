@@ -1,6 +1,6 @@
 # ok-garmin-video-speichern
 
-this program presses the F10 key as soon as you say “okay garmin, save video”. this is how you use it:
+## this program presses the F10 key as soon as you say “okay garmin, save video”. this is how you use it:
 
 1. do pip install requierements bla bla
 
