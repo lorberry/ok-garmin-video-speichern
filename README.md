@@ -4,11 +4,11 @@
 
 1. run ```pip install -r requirements.txt```
 
-2. download model from https://alphacephei.com/vosk/models
+2. download the model "```vosk-model-de-0.21```" from https://alphacephei.com/vosk/models, and put the extracted folder into the project directory
 
 3. in a recording program of your choice, e.g. OBS, set the replay hotkey for saving a video with the replay buffer to F10
 
-4. start the python program and start the replay buffer, enjoy
+4. start the python program and wait for the model to load. then say “okay garmin” and wait for the beep sound. after the beep you have 5 seconds to say “video speichern” and if you do, the program will trigger F10 and the final beeping sound will play.
 
 ### big thanks
 to jirmjahu for coming up with this very sigma idea!
