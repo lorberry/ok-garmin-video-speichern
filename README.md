@@ -2,9 +2,9 @@
 
 ## this program presses the F10 key as soon as you say “okay garmin, save video”. this is how you use it:
 
-1. do pip install requierements bla bla
+1. run ```pip install -r requirements.txt```
 
-2 download model from https://alphacephei.com/vosk/models
+2. download model from https://alphacephei.com/vosk/models
 
 3. in a recording program of your choice, e.g. OBS, set the replay hotkey for saving a video with the replay buffer to F10
 
