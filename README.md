@@ -10,5 +10,9 @@
 
 4. start the python program and wait for the model to load. then say “okay garmin” and wait for the beep sound. after the beep you have 5 seconds to say “video speichern” and if you do, the program will trigger F10 and the final beeping sound will play.
 
+### why?
+this repo serves as a fun project, and refers to this meme here:
+https://www.youtube.com/watch?v=3q_p1aW6rLg
+
 ### big thanks
 to jirmjahu for coming up with this very sigma idea!
